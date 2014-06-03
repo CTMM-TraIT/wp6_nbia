@@ -1,7 +1,11 @@
-
+##
+#
 # Locations of configuration files: 
+#
 
 /etc/httpd/conf.d/nbiaws-ssl.conf
 
 /etc/shibboleth/attribute-map.xml
+
 /etc/shibboleth/shibboleth2.xml
+
