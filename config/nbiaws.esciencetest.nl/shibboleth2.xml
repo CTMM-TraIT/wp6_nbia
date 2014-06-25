@@ -69,7 +69,7 @@
         Allows overriding of error template information/filenames. You can
         also add attributes with values that can be plugged into the templates.
         -->
-        <Errors supportContact="p.deBoer (at) esciencecenter.nl"
+        <Errors supportContact="ptdeboer (at) nbiaws.esciencetest.nl"
             helpLocation="/about.html"
             styleSheet="/shibboleth-sp/main.css"/>
         

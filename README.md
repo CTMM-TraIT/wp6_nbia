@@ -1,4 +1,4 @@
 wp6_nbia
 ========
 
-NBIA tools and patches
+NBIA tools, scripts and patches
