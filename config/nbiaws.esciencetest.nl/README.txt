@@ -15,6 +15,8 @@ Apache:
 
 - /etc/httpd/conf.d/nbiaws-ssl.conf
 
+- /home/nbia/www/index.html
+
 Shibboleth:  
 
 - /etc/shibboleth/attribute-map.xml
