@@ -1,8 +1,9 @@
 #!/bin/sh
 ##
-#
 # Patch nbia-web module and update compiled classes in nbia.war and nbia.ear webservice archives. 
 #
+# First unzip the nbia.ear and nbia.war archvies into the 'nbia-web' module and run this scripts. 
+# 
 
 print()
 {
